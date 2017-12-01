@@ -4,8 +4,8 @@ public class Hello {
 		System.out.println("Hello.main()");
 		System.out.println("Hello.main()");
 	}
-
+	
 	public void name() {
-
+		System.out.println("Hello.name()");
 	}
 }
